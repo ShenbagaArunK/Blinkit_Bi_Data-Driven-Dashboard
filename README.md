@@ -23,8 +23,7 @@ I implemented a primary executive header to provide a real-time health check of 
 
 ### Project Screenshots
 | Executive Sales Overview | Advanced Analytics View | Drill-Through Page
-| :---: | :---: |
-| :---: |
+| :---: | :---: | :---: |
 | ![Sales Overview](Ref_image_01.png) | ![Operational Insights](Ref_image_02.png) | ![In-deapth Item/Outlet - details](Ref_image_03.png) |
 
 ---
